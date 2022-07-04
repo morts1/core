@@ -131,8 +131,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/binary_sensor/ @home-assistant/core
 /tests/components/binary_sensor/ @home-assistant/core
 /homeassistant/components/bizkaibus/ @UgaitzEtxebarria
-/homeassistant/components/blebox/ @bbx-a @bbx-jp @riokuu
-/tests/components/blebox/ @bbx-a @bbx-jp @riokuu
+/homeassistant/components/blebox/ @bbx-a @riokuu
+/tests/components/blebox/ @bbx-a @riokuu
 /homeassistant/components/blink/ @fronzbot
 /tests/components/blink/ @fronzbot
 /homeassistant/components/blueprint/ @home-assistant/core
@@ -698,6 +698,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/nextbus/ @vividboarder
 /tests/components/nextbus/ @vividboarder
 /homeassistant/components/nextcloud/ @meichthys
+/homeassistant/components/nextdns/ @bieniu
+/tests/components/nextdns/ @bieniu
 /homeassistant/components/nfandroidtv/ @tkdrob
 /tests/components/nfandroidtv/ @tkdrob
 /homeassistant/components/nightscout/ @marciogranzotto

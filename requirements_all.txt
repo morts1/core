@@ -402,7 +402,7 @@ bimmer_connected==0.9.6
 bizkaibus==0.1.1
 
 # homeassistant.components.blebox
-blebox_uniapi==2.0.0
+blebox_uniapi==2.0.1
 
 # homeassistant.components.blink
 blinkpy==0.19.0
@@ -1094,6 +1094,9 @@ nextcloudmonitor==1.1.0
 # homeassistant.components.discord
 nextcord==2.0.0a8
 
+# homeassistant.components.nextdns
+nextdns==1.0.0
+
 # homeassistant.components.niko_home_control
 niko-home-control==0.2.1
 
@@ -1150,7 +1153,7 @@ ondilo==0.2.0
 onkyo-eiscp==1.2.7
 
 # homeassistant.components.onvif
-onvif-zeep-async==1.2.0
+onvif-zeep-async==1.2.1
 
 # homeassistant.components.opengarage
 open-garage==0.2.0
